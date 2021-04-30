@@ -44,3 +44,4 @@ The following prefixes are used to refer to the corresponding XML namespaces in 
 Prefix         | Namespace
 -------------- | -------------------------------------------------
 mr-core        | http://inspire.ec.europa.eu/schemas/mr-core/4.0
+ge             | http://inspire.ec.europa.eu/schemas/ge-core/4.0
