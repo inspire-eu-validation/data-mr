@@ -6,12 +6,12 @@ The specification specifies the following conformance classes:
 
 | Conformance class | Standardization target |
 | ----------------- | ---------------------- |
-| [GML application schemas, Mineral Resources](http://inspire.ec.europa.eu/id/ats/data-mr-core/3.0/mr-gml) | INSPIRE spatial data set encoded in GML, Mineral Resources features |
-| [Application Schema, Mineral Resources](http://inspire.ec.europa.eu/id/ats/data-mr-core/3.0/mr-as) | INSPIRE spatial data set |
-| [Reference Systems, Mineral Resources](http://inspire.ec.europa.eu/id/ats/data-mr-core/3.0/mr-rs) | INSPIRE spatial data set |
-| [Data Consistency, Mineral Resources](http://inspire.ec.europa.eu/id/ats/data-mr-core/3.0/mr-dc) | INSPIRE spatial data set |
-| [Information Accessibility, Mineral Resources](http://inspire.ec.europa.eu/id/ats/data-mr-core/3.0/mr-ia) | INSPIRE spatial data set |
-| [Portrayal, Mineral Resources](http://inspire.ec.europa.eu/id/ats/data-mr-core/3.0/mr-portrayal) | INSPIRE view service |
+| [GML application schemas, Mineral Resources](http://inspire.ec.europa.eu/id/ats/data-mr/3.0/mr-gml) | INSPIRE spatial data set encoded in GML, Mineral Resources features |
+| [Application Schema, Mineral Resources](http://inspire.ec.europa.eu/id/ats/data-mr/3.0/mr-as) | INSPIRE spatial data set |
+| [Reference Systems, Mineral Resources](http://inspire.ec.europa.eu/id/ats/data-mr/3.0/mr-rs) | INSPIRE spatial data set |
+| [Data Consistency, Mineral Resources](http://inspire.ec.europa.eu/id/ats/data-mr/3.0/mr-dc) | INSPIRE spatial data set |
+| [Information Accessibility, Mineral Resources](http://inspire.ec.europa.eu/id/ats/data-mr/3.0/mr-ia) | INSPIRE spatial data set |
+| [Portrayal, Mineral Resources](http://inspire.ec.europa.eu/id/ats/data-mr/3.0/mr-portrayal) | INSPIRE view service |
 
 
 ## Approach
