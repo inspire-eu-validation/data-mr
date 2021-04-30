@@ -18,7 +18,7 @@ This data theme currently has the following empty code lists:
 **Reference(s)**: 
 
 * [TG DS Template](./README.md#ref_TG_DS_tmpl) IR requirement Article 6 (3)
-* [TG DS SU](./README.md#ref_TG_DS_SU) Annex C
+* [TG DS MR](./README.md#ref_TG_DS_MR) Annex C
 
 **Test type**: Automated
 
