@@ -1,4 +1,4 @@
-# Statistical Units theme-specific requirements
+# Mineral Resources theme-specific requirements
 
 **Purpose**: Verification whether the MappedFeature type specified in Section 4.2.1.10 of Annex III ([IR-ISDSS](./README.md#ref_IR-ISDSS)) is used to describe the geometric properties of MineralOccurrence spatial object type.
 
