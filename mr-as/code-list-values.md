@@ -39,9 +39,9 @@ The following checks are performed for every feature in the dataset, for the 'op
 | ---- | 
 | ExplorationResultValue: http://inspire.ec.europa.eu/codelist/ExplorationResultValue |
 
-* Check that all the [explorationResult](#explorationResult) elements have a xlink:href attribute pointing to a [pre-defined value](#preDefinedValue5). If the check fails a manual check will be required asking to review the code list definition in order to verify that any extensions do not overlap with the code lists that are defined in Annexes II, III and IV of the Implementing Rule. If the check fails report [reviewCodeListValue](#reviewCodeListValue).
+* Check that all the [status](#status) elements have a xlink:href attribute pointing to a [pre-defined value](#preDefinedValue5). If the check fails a manual check will be required asking to review the code list definition in order to verify that any extensions do not overlap with the code lists that are defined in Annexes II, III and IV of the Implementing Rule. If the check fails report [reviewCodeListValue](#reviewCodeListValue).
 
-| <a name="preDefinedValue5"></a> Pre-defined values for xlink:href attribute of [explorationResult](#explorationResult) element are available in the INSPIRE Registry | 
+| <a name="preDefinedValue5"></a> Pre-defined values for xlink:href attribute of [status](#status) element are available in the INSPIRE Registry | 
 | ---- | 
 | MineStatusValue: http://inspire.ec.europa.eu/codelist/MineStatusValue |
 
