@@ -9,7 +9,6 @@
 
 Check whether all instances of MineralOccurrence spatial object type use for providing geometric properties the attribute [Shape](#shape) (GM_Object) defined by MappedFeature spatial object type (in Geology Data Specification).
 
-
 **Reference(s)**: 
 
 * [TG DS_MR](./README.md#ref_TG_DS_MR) Annex A - Part 1 - A.1.8
@@ -21,14 +20,14 @@ Check whether all instances of MineralOccurrence spatial object type use for pro
 
 Two different encodings are possible for providing MineralOccurrence spatial object and the related MappedFeature spatial object:
 
- * MineralOccurrence spatial object and the related MappedFeature spatial object are provided separately: In this case the element "[specification](#specification1)" of the MappedFeature spatial object shall provide the link to the related MineralOccurrence spatial object through the xlink:href atttribute.
- * MineralOccurrence spatial object and the related MappedFeature spatial object are provided embedded: In this case the specific requirement is self verified because the element "[specification](#specification2)" of the MappedFeature spatial object contains the MineralOccurrence spatial object.
-
+ * MineralOccurrence spatial object and the related MappedFeature spatial object are provided separately: in this case the element "[specification](#specification1)" of the MappedFeature spatial object shall provide the link to the related MineralOccurrence spatial object through the xlink:href atttribute. If the check fails report [missingGeometry](#missingGeometry).
+ * MineralOccurrence spatial object and the related MappedFeature spatial object are provided embedded: in this case the specific requirement is self verified because the element "[specification](#specification2)" of the MappedFeature spatial object contains the MineralOccurrence spatial object.
 
 ## Messages
 
 Identifier  |  Message text (parameters start with '$')
 ---------------------------------------------------------- | -------------------------------------------------------------------------
+missingGeometry <a name="missingGeometry"/>  |  XML document '$filename', MineralOccurrence '$gmlid': The geometric properties of the MineralOccurrence feature type are not provided.
 
 ## Contextual XPath references
 
