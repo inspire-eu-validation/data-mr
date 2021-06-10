@@ -27,7 +27,7 @@ Two different encodings are possible for providing MineralOccurrence spatial obj
 
 Identifier  |  Message text (parameters start with '$')
 ---------------------------------------------------------- | -------------------------------------------------------------------------
-missingGeometry <a name="missingGeometry"/>  |  XML document '$filename', MineralOccurrence '$gmlid': The geometric properties of the MineralOccurrence feature type are not provided.
+missingGeometry <a name="missingGeometry"/>  |  XML document '$filename', MappedFeature '$gmlid': The geometric properties of the MineralOccurrence feature type are not provided.
 
 ## Contextual XPath references
 
